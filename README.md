@@ -11,6 +11,7 @@ Foi utilizado conceitos como:
 Existe a necessidade de melhorias, alguns assuntos tratados foram novos e preciso tornar minha base ainda mais robusta para prosseguir com a consolidação deste app.
 
 Um ponto de melhoria foi o tratamento da imagem, no código, utilizando o prório recurso da API Picasso:
+<br>
 Abaixo as imagens do App.
 
 <p float="left">
